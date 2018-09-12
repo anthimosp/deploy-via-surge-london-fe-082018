@@ -1,2 +1,1 @@
-# You will enter your deployed Surge URL here
-imaginary-feet.surge.sh
+http://imaginary-feet.surge.sh
